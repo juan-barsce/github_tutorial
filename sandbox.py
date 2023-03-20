@@ -1,5 +1,8 @@
 
 
+def dummy_function():
+    returns None
+
 def sandbox_function():
     return 5
 
