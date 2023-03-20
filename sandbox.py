@@ -1,5 +1,8 @@
 
 
+def function_in_new_branch():
+    return []
+
 def dummy_function():
     returns None
 
